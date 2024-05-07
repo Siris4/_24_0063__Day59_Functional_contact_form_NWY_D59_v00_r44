@@ -1,0 +1,1 @@
+the Media file link buttons are TOO big in the dynamically rendered pages. like 3x the side of the Home, About, and Contact pages.
